@@ -1,0 +1,5 @@
+target:
+	mkdir ./bin
+	javac ./src/*.java
+clean:
+	rm -rf ./bin
